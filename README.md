@@ -1,6 +1,8 @@
 LOGIN FORM
 
 Project Overview
+![Screenshot 2025-07-08 172533](https://github.com/user-attachments/assets/3b8f0f05-fb27-4f04-a176-96c2816f6e39)
+![Screenshot 2025-07-08 173032](https://github.com/user-attachments/assets/aaa07892-80af-459a-ac45-d050dd841c2f)
 
 This is a simple JavaScript login form that validates user credentials. The form demonstrates basic front-end validation and form handling.
 
